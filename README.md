@@ -7,7 +7,7 @@ The Ultimate JavaFX, Multi-split, Drag-n-Drop Layout Manager
 
 ## On [YouTube](https://youtu.be/eVH-Q85hqe0) (CLICK!)
 
-Hi I'm a Solutions Architect for [Cortical.io](http://cortical.io), working on machine intelligence in the form of language intelligence - it's my dream situation and I have very little time other than that to forward the progress of this, but it is **too** substanstial to keep to myself! I'm hoping (with a lot of guidance from myself) that some enterprising Java engineer can take this and run with it! Please Please contact me if you're that person! cognitionmission@gmail.com...
+Hi I'm an engineer for [Cortical.io](http://cortical.io), working on machine intelligence in the form of language intelligence - it's my dream situation and I have very little time other than that to forward the progress of this, but it is **too** substanstial to keep to myself! I'm hoping (with a lot of guidance from myself) that some enterprising Java engineer can take this and run with it! Please Please contact me if you're that person! cognitionmission@gmail.com...
 
 # ![Demo](http://mindlab.ai/images/MosaicDemo.gif)
 
