@@ -19,10 +19,11 @@ Using Any Java Windowing Toolkit! (i.e. JavaFX, Swing, Apache Pivot etc.)
 
 **Discerning Developer:** "Sounds cool... How does it do that!!!?"
 
-Mosaic is an engine that furnishes dimensions and locations for objects it is given. So...   
-Step 1: Load it with objects in the same container  
-Step 2: Attach mouse listener to your container (albeit JavaFX Node, Swing or Apach Pivot Container); inside of which; forward events to the Mosaic Engine  
-Step 3: Inside listener, apply location and dimension instructions to the object it tells you to...
+Mosaic is an engine that furnishes dimensions and locations for objects it is given. So...
+
+**Step 1:** Load it with objects in the same container  
+**Step 2:** Attach mouse listener to your container (albeit JavaFX Node, Swing or Apach Pivot Container); inside of which; forward events to the Mosaic Engine  
+**Step 3:** Inside listener, apply location and dimension instructions to the object it tells you to...
 
 Easy peasy!
 
