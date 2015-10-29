@@ -23,7 +23,9 @@ Mosaic is an engine that furnishes dimensions and locations for objects it is gi
 
 **Step 1:** Load it with objects in the same container  
 **Step 2:** Attach mouse listener to your container (albeit JavaFX Node, Swing or Apach Pivot Container); inside of which; forward events to the Mosaic Engine  
-**Step 3:** Inside listener, apply location and dimension instructions to the object it tells you to...
+**Step 3:** Inside listener, apply location and dimension instructions to the object it tells you to...  
+
+For examples for how this is done, see the MosaicPane reference classes in the "javafx", and "pivot" packages. (could be done the same way for Swing).
 
 Easy peasy!
 
