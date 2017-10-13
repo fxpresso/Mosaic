@@ -1,4 +1,4 @@
-# ![Mosaic Logo](http://mindlab.ai/images/mosaic.png)  
+# ![Mosaic Logo](http://metaware.us/images/mosaic.png)  
 # Mosaic
 The Ultimate JavaFX, Multi-split, Drag-n-Drop Layout Manager 
 
@@ -9,7 +9,7 @@ The Ultimate JavaFX, Multi-split, Drag-n-Drop Layout Manager
 
 Hi I'm an engineer for [Cortical.io](http://cortical.io), working on machine intelligence in the form of language intelligence - it's my dream situation and I have very little time other than that to forward the progress of this, but it is **too** substanstial to keep to myself! I'm hoping (with a lot of guidance from myself) that some enterprising Java engineer can take this and run with it! Please Please contact me if you're that person! cognitionmission@gmail.com...
 
-# ![Demo](http://mindlab.ai/images/MosaicDemo.gif)
+# ![Demo](http://metaware.us/images/MosaicDemo.gif)
 
 Mosaic is an **amazing** new layout manager which allows you to split your screen however you want with no nesting; Drag dividers in _**ANY**_ direction; and Drag-N-Drop contents anywhere, and the layout will intelligently morph into a new configuration while snapping to suggested locations!
 
